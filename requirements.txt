@@ -1,1 +1,10 @@
-
+tensorflow
+scikit-learn
+matplotlib
+seaborn
+pandas
+numpy
+wfdb
+neurokit2
+plotly
+kaleido
